@@ -1,0 +1,9 @@
+Step 1 : Declare Integer Variables a, b, c, i, n
+Step 2 : Assign Values for a and b as 1 as starting values of array 
+Step 3 : Assign c as 0 as a extra varible to place values
+Step 4 : Assign i as 3 representing the number of iterations
+Step 5 : Take input n for the nth number
+Step 6 : while (i<=n)
+         calculating the value of the next number in the series
+ 	 till we find the nth number
+Step 7 : Output c when the while loop is finished

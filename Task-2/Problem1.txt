@@ -1,0 +1,13 @@
+step 1 : Start
+Step 2 : Declare Divisor, Dividend, and Remainder as Floating Values
+Step 3 : Declare Quotient as Integer
+Step 4 : Assign Divisor as 3
+Step 5 : Take Dividend as Input
+Step 6 : Quotient = Divisor / Dividend
+Step 7 : Remainder = (Dividend / Divisor) - Quotient
+Step 8 : if 
+           Remainder == 0 
+           Output is True
+         else
+           Output is False
+Step 9 : End
