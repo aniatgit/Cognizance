@@ -8,7 +8,7 @@ write their what if’s version of the popular novels,
 manga and movies and earn from it. :smile:
 
 ---
-We built this website so u can have all the fun with reading at little to no cost with many settings for you
+We built this website so you can have all the fun with reading at little to no cost with many settings for you
 
 1. Privacy - check ✅ no comromise there
 2. Plagiarism - check ✅ authors can rest assured
